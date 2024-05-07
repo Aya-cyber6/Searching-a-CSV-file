@@ -62,33 +62,6 @@ int main() {
     
     return 0;
 }
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
- /*   // Display the CSV data
-    for (const auto& row : data) {
-        for (const auto& cell : row) {
-            cout << cell << "\t";
         }
         cout << endl;
     }
